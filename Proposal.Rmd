@@ -1,0 +1,132 @@
+---
+title: "Framing Rojava: U.S. Elite Portrayals of the Syrian Kurdish Predicament"
+author: "Danny Parker"
+date: "4/8/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Background
+
+  The Kurds are an ethnic group that inhabit the south-eastern Turkey, north-eastern Syria, northern Iraq, north-western Iran and south-western Armenia. The region which they inhabit was fragmented into separate nation states following World War I. Since then, they have been forced into minority status and denied civil rights and at times citizenship in some of the countries in which they live. Some factions of Kurdish people have attempted to form their own independent state, referred to as Kurdistan, but christened “Rojava” at the ratification of its constitution in 2014 (BBC, 2019).  This attempt by a majority Islamic population to form a secular democracy codifying equal gender rights and representation in governance is newsworthy by traditional standards. However, the Syrian Kurdish struggle for autonomy has been largely ignored by U.S. media. In the past, U.S. interest in the Kurdish population is typically relative to military and policy interests in the region. A major peripheral conflict against the backdrop of the Syrian War, the paucity of coverage of the Syrian Kurdish predicament shifted following the 2019 Turkish incursion into Syria. At that time, journalists and political commentators generated different suppositions of obligation to protect the Kurds from Turkish attacks because they had partnered with the U.S. to fight against ISIS (Keating, 2019). 
+
+  News coverage of foreign conflicts has seen criticism from scholars as being routinely bias towards the interests of politically and economically elite groups in the way in which information is presented (Entman, 2003; Ha, 2014).  An example of this can be seen in the beginning of the Iraq War in 2003. Mainstream media in the United States rarely pursued sources outside of the American government and supported going to war, even though there was no verification of Saddam Hussein’s connection to the al Qaeda terrorist attacks (McLeod, 2015). According to Bennett (2009), it is only when conflicts exist within elite groups—such as the president and the Congress—that journalists are apt to embrace voices outside of the elite circle, such as activists or other entities supporting counter frames (Ha, 2014, Bennett, 2009). Interestingly, the increase in coverage of the Syrian Kurdish revolution occurred parallel to a highly publicized conflict between many main-stream U.S. media outlets and the president of the United States.
+
+  Opinion and editorial columns have historically functioned as a channel for public debate. In the case of elite newspapers, opinion and editorial writers are theorized to represent the legitimate voices in the public sphere (Golan and Lukito, 2017). However, when Lee (2002) analyzed the New York Times’ coverage of U.S. foreign policies regarding China, he found that the U.S.’s media discourse is characterized by “established pluralism”.  Referring to its role in media discourse, he defined established pluralism as “a plurality of viewpoints within a narrow range of the established order of the official circle” (Lee, 2002).  If opinion and editorial columns function as a forum for public debate, will they will embrace voices outside of elite circles of established order or reproduce official White House foreign policy positions? This study intends to evaluate whether past and current representations of Syrian Kurdish fighters as framed in two elite newspapers reinforce or challenge these claims. 
+
+# Methods
+
+  This study conducts a framing analysis of 120 editorial articles on the Syrian Kurdish predicament as reflected in the New York Times and Wall Street Journal from March 15th, 2011 to November 15th, 2019. The time frame selection begins parallel to the Syrian Civil War and continues to the present. The time frame was selected to indicate shifts in frames involving Syrian Kurds relative to the possible polarization of American political ideologies and the ongoing conflict between the press and the White House. This study operationalizes “framing” as a process that involves the selection, highlighting, and communicating of certain aspects of a perceived reality, which transmits a specific interpretation of an event, attaches to it a particular moral logic, and suggests a solution in alignment with that logic (Entman, 1993).
+
+  This study seeks to understand how the Syrian Kurdish issue is being framed. It seeks to identify dominant ideologies and national interests represented by political elites in the New York Times and Wall Street Journal using frame analysis.  It also seeks to identify the occurrence of counter frames to White House narratives. What is learned from that may help understanding how editorial pieces act as a forum for elite debate and in what ways, if any, they are divergent from past scholarship on traditional newspaper frames of foreign events. 
+
+# The research questions are as follows: 
+
+RQ1: How do the NYT and WSJ editorial and opinion articles frame Syrian Kurdish revolutionaries? 
+
+  a.	What dominant ideologies and national interests are 
+  represented? 
+  
+  b.	How do institutional positions of the NYT and WSJ as 
+  represented in editorials compare to positions in their 
+  opinion articles?
+
+RQ2: Do the frames from within and between the NYT and WSJ diverge on their depictions of Syrian Kurdish revolutionaries or exhibit established pluralism? 
+
+  a.	Do NYT and WSJ frames diverge from official U.S. policy 
+  positions and if so, to what extent? 
+  
+  b.	Who are the authors selected for opinion articles for the   NYT and WSJ? Are their meaningful differences in how the NYT   and WSJ portray Syrian Kurds as a result of this selection   
+  process?
+
+# Working Bibliography
+
+
+Ahmed, Nafeez (7 May 2014). "Think tank behind Tory foreign policy promotes Arab world fossil fuel hegemony". The Guardian. London. Retrieved 24 November 2016.
+BBC News. (2019, October 15). Who are the Kurds? BBC News. Retrieved 10/30/19 from https://www.bbc.com/news/world-middle-east-29702440.
+
+Bennett LW (1990) Toward a theory of press-state relations in the United States. Journal of Communication 40(2): 103–125. 
+
+Bennett LW (2009) News: The Politics of Illusion. New York: Pearson Longman. 
+
+Crocker, Ryan and O'Hanlon, Michael. (2018, April 16). After the Syria Strike, a Strategy. The Wall Street Journal. Page J.
+
+Entman, R. M. (1993) Framing: Toward clarification of a fractured paradigm. Journal of Communication 43(4): 51–58.(
+
+Entman, R. M. (2003) Cascading activation: Contesting the White House’s frame after 9/11. Political Communication 20(4): 415–432.(
+
+FARHALL, K., CARSON, A., WRIGHT, S., GIBBONS, A., & LUKAMTO, W. (2019). Political Elites’ Use of Fake News Discourse Across Communications Platforms. International Journal of Communication (19328036), 13, 4353–4375. Retrieved from http://search.ebscohost.com.ezproxy.library.wisc.edu/login.aspx?direct=true&AuthType=ip,uid&db=ufh&AN=139171952&site=ehost-live&scope=site
+
+Federici, Vittoria. "The Rise of Rojava: Kurdish Autonomy in the Syrian Conflict." SAIS Review of International Affairs, vol. 35 no. 2, 2015, p. 81-90. Project MUSE, doi:10.1353/sais.2015.0023.
+
+Gamson WA and Modigliani A (1989) Media discourse and public opinion on nuclear power: A constructionist approach. American Journal of Sociology 95(1): 1–37.
+
+Gentzkow, M., & Shapiro, J. M. (2013). Ideological Segregation Online and Offline. In S. Greenstein, A. Goldfarb, C. Tucker (Eds.), The Economics of Digitization (pp. 372-412). Elgar Research Collection. International Library of Critical Writings in Economics, vol. 280. Cheltenham, U.K. and Northampton, Mass.: Elgar.
+
+Glavin, Terry. (2014, September 23). With the Kurds Fighting Islamic State in Syria. The Wall Street Journal. Page J.
+
+Goffman E (1974) Frame Analysis: An Essay on the Organization of Experience. Cambridge, MA: Harvard University Press. 
+
+Golan, G. J., & Lukito, J. (2017). Newspaper editorial pages frame China similarly. Newspaper Research Journal, 38(2), 215-230. doi:10.1177/0739532917716177
+
+Groseclose, T., & Milyo, J. (2005). A Measure of Media Bias. Quarterly Journal Of Economics, 120(4), 1191-1237. doi:10.1162/003355305775097542
+
+Ha, J. S. (2017). Tailoring the Arab Spring to American values and interests: A framing analysis of U.S. elite newspapers’ opinion pieces. International Communication Gazette, 79(3), 276-297. 
+
+Hallin D (1986) The ‘Uncensored’ War. New York: Pantheon.
+
+Ikenberry, G. J. (2004). Soft Power: The Means to Success in World Politics (Book). Foreign Affairs, 83(3), 136.
+
+Keating, Joshua. (2019, October 14). The Foreseeable Tragedy of Rojava. The Slate. Retrieved 10/30/2019 from https://slate.com/news-and-politics/2019/10/rojava-kurdish-enclave-syria-doomed-start-turkey-trump.html.
+
+Kube, Courtney. (2019, November 5). As most U.S. troops withdraw, others move into Syria to help guard oil fields. ABC News. Retrieved December 13, 2019 from https://www.nbcnews.com/news/military/most-u-s-troops-withdraw-others-move-syria-help-guard-n1076691.
+
+Lee C-C (2002) Establishing pluralism: U.S. elite media discourse on China policy. Journalism Studies 3(3): 343–357.(
+
+Lee C-C and Yang J (1996) Foreign news and national interest: Comparing US and 
+
+Japanese coverage of a Chinese student movement. International Communication Gazette 56(1): 1–18.(
+
+Li, H., & Lee, C.-C. (2013). Remembering Tiananmen and the Berlin Wall: the elite U.S. press’s anniversary journalism, 1990–2009. Media, Culture & Society, 35(7), 830–846. https://doi.org/10.1177/0163443713495077
+
+McLeod, Douglas M. (2015). News Frames and National Security (Communication, Society and Politics) (p. 24). Cambridge University Press. Kindle Edition.
+
+Melki, J. (2014). The interplay of politics, economics and culture in news framing of Middle East wars. Media, War & Conflict, 7(2), 165-186. 
+
+Mohamed, Saleh M. (2016, April 12). Democracy Left Out in the Cold. The New York Times, 2016. Page NYTF.
+Norris P., Kern, M. and Just, M. (2003) Framing Terrorism: The News Media, the Government, and the Public. New York: Routledge. 
+
+Obe, Mitsuru (23 September 2013). "Abe First Non-American to Win Conservative Hudson Institute Award". The Wall Street Journal. Retrieved 4 July 2016.
+
+Orton, Kyle W. (2017, June 7). In Syria, an error to arm Kurds. The New York Times. Page NYTF.
+
+Page, B. I. (1996). The mass media as political actors. PS: Political Science & Politics, 29(1), 20.
+
+Reese, S. D., & Shoemaker, P. J. (2016). A Media Sociology for the Networked Public Sphere: The Hierarchy of Influences Model. Mass Communication & Society, 19(4), 389-410. doi:10.1080/15205436.2016.1174268
+
+Rollo, Stuart. (2017, January, 9). Syrian Kurds Deserve a Seat at the Negotiating Table. The Wall Street Journal. Page J.
+
+Siegel, N. S. (2018). Political Norms, Constitutional Conventions, and President Donald Trump. Indiana Law Journal, 93(1), 177–205. Retrieved from http://search.ebscohost.com.ezproxy.library.wisc.edu/login.aspx?direct=true&AuthType=ip,uid&db=lft&AN=130206534&site=ehost-live&scope=site
+
+Shah, D. V., McLeod, D. M., Rojas, H., Cho, J., Wagner, M. W., & Friedland, L. A. (2017). Revising the Communication Mediation Model for a New Political Communication Ecology. Human Communication Research, 43(4), 491–504. https://doi-org.ezproxy.library.wisc.edu/10.1111/hcre.12115
+
+Snyder, J. (2004). One World, Rival Theories. Foreign Policy, (145), 52-62.
+
+Soroka, S., Loewen, P., Fournier, P., & Rubenson, D. (2016). The Impact of News Photos on Support for Military Action. Political Communication, 33(4), 563-582. 
+The Associated Press (2013-04-30). "Top 10 Newspapers By Circulation: Wall Street Journal Leads Weekday Circulation". 
+
+The Editorial Board. (2019, October 25). Mr. Trump's 'Very Special' Syria Victory. The New York Times. Page 26.
+
+The Editorial Board (2019, October 17). Turkey’s Victory Over Donald Trump: The Turkish president got what he wanted-as did Russia and Iran. The New York Times. Page 26.
+
+The Editorial Board (2016, December 21). Russia, Turkey and an Assassination. The New York Times. Page 26.
+
+The Editorial Board (2017, December 29). Trump and Syria After Islamic State; Will the U.S. concede a strategic victory to Russia and Iran? The Wall Street Journal. Page J.
+
+Walt SM (1998) International relations: One world, many theories. Foreign Policy 110: 29–46. 
+
+Zakaria F (1998) From Wealth to Power: The Unusual Origins of America’s World Role. Princeton, NJ: Princeton University Press. 
+
